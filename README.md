@@ -15,4 +15,5 @@ jupyter notebook
 
 # Utilisation
 
-Démo dans samples/Mask-RCNN-Demo.ipynb
+Démo dans samples/Mask-RCNN-Demo.ipynb, permet le téléchargement de coco
+
