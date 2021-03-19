@@ -16,7 +16,7 @@ MaskRCNN avec tf 2.3
 
 # Utilisation
 
-Démo dans samples/Mask-RCNN-Demo.ipynb, permet le téléchargement de coco.
+Démo dans samples/Mask-RCNN-Demo.ipynb, permet le téléchargement du modèle pré-entrainé coco.
 
 # Citation
 
