@@ -15,5 +15,16 @@ MaskRCNN avec tf 2.3
 
 # Utilisation
 
-Démo dans samples/Mask-RCNN-Demo.ipynb, permet le téléchargement de coco
+Démo dans samples/Mask-RCNN-Demo.ipynb, permet le téléchargement de coco.
+
+# Citation
+
+@misc{matterport_maskrcnn_2017,
+  title={Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow},
+  author={Waleed Abdulla},
+  year={2017},
+  publisher={Github},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/matterport/Mask_RCNN}},
+}
 
