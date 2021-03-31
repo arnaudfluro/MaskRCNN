@@ -5,10 +5,6 @@ MaskRCNN avec tf 2.3
 
 * conda create -n maskRCNN python=3.8  
 
-* conda uninstall pip 
-
-* conda install pip=10.0.1 
-
 * conda install opencv  
 
 * pip install numpy scikit-image tensorflow-gpu keras h5py imgaug 
